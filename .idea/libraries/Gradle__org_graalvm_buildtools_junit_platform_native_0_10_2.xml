@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: org.graalvm.buildtools:junit-platform-native:0.10.2" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="org.graalvm.buildtools" artifactId="junit-platform-native" version="0.10.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/junit-platform-native/0.10.2/c4970a39ddc0e31918d11db26f6ba0e42b1ba9ae/junit-platform-native-0.10.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
