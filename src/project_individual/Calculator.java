@@ -43,7 +43,7 @@ public class Calculator implements ActionListener{
         sevenbutton.setBounds(20, 150, 70, 70);
         sevenbutton.setFont(new Font("arial", Font.PLAIN ,20));
         sevenbutton.addActionListener(this);
-        sevenbutton.setBackground(Color.white);
+        sevenbutton.setBackground(Color.black);
         sevenbutton.setOpaque(true);
         jf.add(sevenbutton);
 
@@ -52,7 +52,7 @@ public class Calculator implements ActionListener{
         eightbutton.setBounds(110, 150, 70, 70);
         eightbutton.setFont(new Font("arial", Font.PLAIN ,20));
         eightbutton.addActionListener(this);
-        eightbutton.setBackground(Color.white);
+        eightbutton.setBackground(Color.black);
         eightbutton.setOpaque(true);
         jf.add(eightbutton);
 
@@ -60,7 +60,7 @@ public class Calculator implements ActionListener{
         ninebutton.setBounds(200, 150, 70, 70);
         ninebutton.setFont(new Font("arial", Font.PLAIN ,20));
         ninebutton.addActionListener(this);
-        ninebutton.setBackground(Color.white);
+        ninebutton.setBackground(Color.black);
         ninebutton.setOpaque(true);
         jf.add(ninebutton);
 

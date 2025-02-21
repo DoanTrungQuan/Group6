@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e0902e1-2ac3-42a1-aefc-8900ef52a98c" name="Changes" comment="" />
+    <list default="true" id="2e0902e1-2ac3-42a1-aefc-8900ef52a98c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,48 +50,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Author.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Bai1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clinic (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Clinic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Lab6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LibraryManager.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestAccountClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestAuthor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestBook.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestCylinder.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestDateClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestPoint2DPoint3D.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TestTimeClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TownManagement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bai2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bai3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bai4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bai5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.date1_10.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.date1_10.bai2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.projectVer2.Calculator (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.projectVer2.Calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Application.projectVer2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/PC/OneDrive/Desktop/project&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Author.executor": "Run",
+    "Application.Bai1.executor": "Run",
+    "Application.Calculator (1).executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.Clinic (1).executor": "Run",
+    "Application.Clinic.executor": "Run",
+    "Application.Lab4.executor": "Run",
+    "Application.Lab6.executor": "Run",
+    "Application.LibraryManager.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.TestAccountClass.executor": "Run",
+    "Application.TestAuthor.executor": "Run",
+    "Application.TestBook.executor": "Run",
+    "Application.TestCylinder.executor": "Run",
+    "Application.TestDateClass.executor": "Run",
+    "Application.TestPoint2DPoint3D.executor": "Run",
+    "Application.TestTimeClass.executor": "Run",
+    "Application.TownManagement.executor": "Run",
+    "Application.bai2.executor": "Run",
+    "Application.bai3.executor": "Run",
+    "Application.bai4.executor": "Run",
+    "Application.bai5.executor": "Run",
+    "Application.date1_10.Main.executor": "Run",
+    "Application.date1_10.bai2.Main.executor": "Run",
+    "Application.projectVer2.Calculator (1).executor": "Run",
+    "Application.projectVer2.Calculator.executor": "Run",
+    "Application.projectVer2.Main.executor": "Run",
+    "Application.test.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/PC/OneDrive/Desktop/Group6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Calculator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calculator.Calculator" />
@@ -118,8 +120,10 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="22" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="project_individual.Main" />
-      <module name="Lab2" />
+      <module name="Group_6" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="project_individual.*" />
@@ -221,6 +225,8 @@
       <workItem from="1729096539396" duration="22000" />
       <workItem from="1739760626843" duration="6000" />
       <workItem from="1740045090220" duration="675000" />
+      <workItem from="1740147539431" duration="158000" />
+      <workItem from="1740147715100" duration="129000" />
     </task>
     <servers />
   </component>
